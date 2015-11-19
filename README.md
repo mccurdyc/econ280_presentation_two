@@ -1,4 +1,4 @@
-# seke2015-panel-presentation
+# econ280_presentation_two
 
 This repository contains the HTML source code and additional resources
 for a presentation that I, [Colton J. McCurdy](http://www.coltonmccurdy.com), gave in my Introduction to Entrepreneurship Course.
